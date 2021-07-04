@@ -1,0 +1,32 @@
+body{
+    font-family: 'Anton', sans-serif;
+    font-family: 'Nunito', sans-serif;
+    margin: 0px;
+}
+h1{
+    font-size: 50px;
+}
+.coral-color{
+    color: coral;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 15%;
+}
+.half-width img{
+    width: 80%;
+}
+.li-button{
+    text-decoration: cornsilk;
+    background-image: linear-gradient(rgb(255, 198, 123),coral);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+}
+.top-banner{
+    background-image: url(images/top-banner.png);
+
+}
